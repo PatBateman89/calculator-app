@@ -11,8 +11,6 @@ A copy of the [Apple / iOS Calculator] - but as a web-app.
 
 <br>
 
-<img src="demo.gif" width="40%">
-
 __[Live Demo](https://erics-react-calculator.herokuapp.com/)__
 
 <img src="demo.gif" width="40%">
