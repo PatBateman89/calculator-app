@@ -4,14 +4,18 @@ A copy of the [Apple / iOS Calculator] - but as a web-app.
 
 ### Functional Requirements:
 - should add, subtract, multiply and divide two numbers
-- DEL button should only delete the last char in expression 
+- DEL button should only delete the last char in expression
 - chain mathematical operations together until equal button is clicked, calculator will tell me the correct output
 - should handle duplicate operator inputs
 - should be able to respond to key events
 
 <br>
 
+<img src="demo.gif" width="40%">
+
 __[Live Demo](https://erics-react-calculator.herokuapp.com/)__
+
+<img src="demo.gif" width="40%">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
